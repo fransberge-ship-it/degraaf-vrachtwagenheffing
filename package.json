@@ -1,0 +1,8 @@
+{
+    "name": "degraaf-vrachtwagenheffing",
+    "version": "1.0.0",
+    "description": "Informatiepagina vrachtwagenheffing en CO2-heffing - De Graaf Groep",
+    "main": "server.js",
+    "scripts": { "start": "node server.js" },
+    "engines": { "node": ">=18" }
+}
